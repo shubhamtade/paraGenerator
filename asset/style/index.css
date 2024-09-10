@@ -13,7 +13,7 @@ body {
   );
   font-family: "Roboto", system-ui;
 
-  .container {
+  #container {
     background: white;
     min-height: 100vh;
     width: 50%;
